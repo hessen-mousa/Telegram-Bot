@@ -8,8 +8,8 @@ import telegram
 import asyncio
 import sys
 
-# Define the URL of the website to monitor
-url = 'https://termine.staedteregion-aachen.de/auslaenderamt/'
+# ------>  Define the URL of the website to monitor
+url = 'the URL of the Page'
 
 
 # ------> Define the Telegram bot token
